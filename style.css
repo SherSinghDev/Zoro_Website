@@ -65,8 +65,8 @@ Table of contents
 ** General Styles for HTML tags
 */
 
-@import url("../../css2");
-@import url("../../css2-1");
+/* @import url("../../css2");
+@import url("../../css2-1"); */
 
 * {
   padding: 0;
